@@ -58,4 +58,4 @@ Il confronto viene eseguito a livello globale su un arco temporale di oltre 20 a
 
 ## 📊 Ambito del Progetto
 
-Il progetto si inserisce nell’ambito della **Data Science applicata ai sistemi sanitari**, con particolare attenzione all’analisi statistica comparativa e alla visualizzazione dei dati epidemiologici globali.
+Il progetto si inserisce nell’ambito della **Data Science For Health Systems**, con particolare attenzione all’analisi statistica comparativa e alla visualizzazione dei dati epidemiologici globali.
