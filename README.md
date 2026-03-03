@@ -49,7 +49,7 @@ Il confronto viene eseguito a livello globale su un arco temporale di oltre 20 a
    Cartella contenente tutti i dataset utilizzati (formato `.csv`)  
 
 3. **R/**  
-   Cartella con tutti i codici utilizzati per la generazione delle analisi e visualizzazioni  
+   Cartella con tutti i codici utilizzati per la generazione delle analisi e visualizzazioni (sono presenti all'interno anche i dataset utilizzati). 
 
 4. **IMG/**  
    Cartella contenente tutte le immagini utilizzate nel repository e nella presentazione, ottenute migliorando le immagini prodotte in R  
